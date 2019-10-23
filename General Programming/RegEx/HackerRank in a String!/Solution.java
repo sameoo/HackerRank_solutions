@@ -23,6 +23,7 @@ public class Solution {
             if (index == hackerrank.length()) {
                 return true;
             }
+            
         }
         return false;
     }
